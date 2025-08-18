@@ -1,0 +1,5 @@
+relationship 89165725-91d1-4c03-b239-544f257d2bfc
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'UPI Transactions'.TransactionDate
+	toColumn: LocalDateTable_ded1514a-31a3-4066-b73a-425a62053f9e.Date
+
