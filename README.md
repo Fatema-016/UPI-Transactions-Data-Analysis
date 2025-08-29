@@ -39,3 +39,8 @@ This Power BI project provides an interactive and insightful analysis of UPI (Un
 - Conditional formatting in matrix visuals
 
 - Slicer syncing and visual interactions
+
+## Screenshots
+
+![](https://github.com/Fatema-016/UPI-Transactions-Data-Analysis/blob/c5bafd5883cb7db0535512c5d2eea92e062264b9/images/Screenshot%20(62).png)
+![](https://github.com/Fatema-016/UPI-Transactions-Data-Analysis/blob/c5bafd5883cb7db0535512c5d2eea92e062264b9/images/Screenshot%20(63).png)
